@@ -1,0 +1,56 @@
+[
+  {
+    "id": 0,
+    "title": "apple",
+    "content": "새콤달콤 맛있는 사과",
+    "price": 12000
+  },
+  {
+    "id": 1,
+    "title": "strawberry",
+    "content": "달콤한 딸기",
+    "price": 15000
+  },
+  {
+    "id": 2,
+    "title": "watermelon",
+    "content": "시원한 수박",
+    "price": 25000
+  },
+  {
+    "id": 3,
+    "title": "pear",
+    "content": "아삭아삭한 식감, 시원한 단 맛, 풍부한 과즙",
+    "price": 6500
+  },
+  {
+    "id": 4,
+    "title": "peach",
+    "content": "수분이 많은지라 달고 시원한 맛이 있음",
+    "price": 22000
+  },
+  {
+    "id": 5,
+    "title": "banana",
+    "content": "탄수화물이 풍부하고, 인, 칼륨, 비타민A, 비타민C 가득",
+    "price": 5500
+  },
+  {
+    "id": 6,
+    "title": "orange",
+    "content": "비타민 C가 매우 풍부한 과일",
+    "price": 15000
+  },
+  {
+    "id": 7,
+    "title": "mango",
+    "content": "디저트 레시피에 활용할 수 있는 활용도 높은 과일",
+    "price": 15000
+  },
+  {
+    "id": 8,
+    "title": "melon",
+    "content": "수분이 많아 달고 시원한 식감",
+    "price": 15000
+  }
+]
